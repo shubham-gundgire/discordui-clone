@@ -66,14 +66,14 @@
   top: 0;
   right: -500px;
   width: 330px;
-  height: 100vh;
+  height: 100%;
   background-color: white;
   border-radius: 8px 0px 0px 8px;
   transition: 0.3s;
 }
 .toggler {
   right: 0;
-  height: 100vh;
+ height: 100%;
 }
 .hero__burgermenu__header {
   display: flex;
