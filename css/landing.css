@@ -1,5 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=Poppins:ital,wght@0,700;0,800;0,900;1,300&display=swap");
 
+@font-face {
+  font-family:"Antique" ;
+  src: url('Antique-Olive-Std-Nord_3868.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
 * {
   margin: 0;
   padding: 0;
@@ -160,7 +166,7 @@
 .hero__banner__title {
   font-size: clamp(22px, 4.5vw, 42px);
 
-  font-family: "Antique Olive Std", sans-serif;
+  font-family: "Antique", sans-serif;
   font-weight: 900;
   line-height: 36px;
   color: white;
@@ -279,7 +285,7 @@
 }
 .lastimg__msg__title {
   font-size: clamp(19px, 3.5vw, 39px);
-  font-family: "Antique Olive Std", sans-serif;
+  font-family: "Antique", sans-serif;
   font-weight: 800;
   line-height: 98%;
 
@@ -357,7 +363,8 @@
 }
 .footer__top__logodiv__title {
   font-size: 30px;
-  font-family: "Antique Olive Std", sans-serif;
+  font-family: "Antique", sans-serif;
+ 
   color: #5865f2;
   font-weight: 800;
   line-height: 98%;
