@@ -72,8 +72,9 @@
   transition: 0.3s;
 }
 .toggler {
+  top: 0;
   right: 0;
- height: 100%;
+ 
 }
 .hero__burgermenu__header {
   display: flex;
