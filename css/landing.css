@@ -73,6 +73,7 @@
 }
 .toggler {
   right: 0;
+  height: 100vh;
 }
 .hero__burgermenu__header {
   display: flex;
